@@ -58,7 +58,7 @@ Based on these factors, a unique id is created for every event, entirely elimina
 
 Every site has a score that is re-computed frequently, and the score is provided as part of the auction invite the exchange provides to the trading desk. The mechamism we're proposing for scoring of sites have been outlined with great level of detal in two separate academic papers and is endorsed by leading researchers and the World Federation of Advertisers. 
 
-## 4. Stakeholder and Incentives
+## 4. Stakeholders and Motitations
 
 1) Internet users 
 2) Media buyers
