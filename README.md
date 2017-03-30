@@ -46,6 +46,14 @@ Note that we've concisedered the DSP and trading desk both under "trading desks"
 
 ### 3.3 Ad placement related disclosure
 
-- Is it a human (user-agent, ip address, referrer, network)
-- Is the content contextually relevant 
-- Is the page appropriate environment for brands
+- referrer of the ad placement
+- IP address of the visitor 
+- user-agent of the visitor
+- exchange that did the transaction 
+- time of the event
+
+Based on these factors, a unique id is created for every event, entirely eliminating the possibility of arbitrage or other non value adding practices where events are in effect duplicated. 
+
+### 3.4 Scoring of sites 
+
+Every site has a score that is re-computed frequently, and the score is provided as part of the auction invite the exchange provides to the trading desk. The mechamism we're proposing for scoring of sites have been outlined with great level of detal in two separate academic papers and is endorsed by leading researchers and the World Federation of Advertisers. 
