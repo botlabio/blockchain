@@ -26,18 +26,14 @@ The solution consist of three primary functions:
 3) trading desks interact with ad exchanges
 4) media budget holders interact with trading desks
 
-### 3.1 Typical user interaction
+### 3.1 Outline of an ad placement
+
+Note that we've concisedered the DSP and trading desk both under "trading desks". 
 
 - internet user goes to a webpage
 - the webpage source code includes ad tags
 - the ad tags have the function of connecting the user with exchange 
 - once the exchange receives the connection it creates an auction 
-- trading desks bid for
-
-
-
-- the user sees an ad 
-
-- the webpage source dode includes ad tags
-- the 
-
+- trading desks compete against each other for the bid
+- once the exchange knows it sends an ad to be placed on the webpage
+- the user sees the ad
