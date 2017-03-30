@@ -112,3 +112,20 @@ Every site has a score that is re-computed frequently, and the score is provided
 - maximize retention 
 - maximize earning per visit
 - monetize user data
+
+## 5. Supply-chain models 
+
+1) currency
+2) delivery chain
+
+### 5.1 Currency
+
+- quantity based buying
+- time based buying (seconds / minutes)
+- period based buying (one week)
+- placement based buying (whole landing page)
+
+### 5.2. Delivery Chain 
+
+- publisher and buyer do tag exchange 
+- publisher and exchange do tag exchange 
