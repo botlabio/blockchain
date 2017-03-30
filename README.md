@@ -37,3 +37,15 @@ Note that we've concisedered the DSP and trading desk both under "trading desks"
 - trading desks compete against each other for the bid
 - once the exchange knows it sends an ad to be placed on the webpage
 - the user sees the ad
+
+### 3.2 Ad placement related moneyflow
+
+- the exchange pays to the publisher 
+- the trading desk pays to the exchange
+- the media buyer pays to the trading desk 
+
+### 3.3 Ad placement related disclosure
+
+- Is it a human (user-agent, ip address, referrer, network)
+- Is the content contextually relevant 
+- Is the page appropriate environment for brands
