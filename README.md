@@ -58,7 +58,7 @@ Based on these factors, a unique id is created for every event, entirely elimina
 
 Every site has a score that is re-computed frequently, and the score is provided as part of the auction invite the exchange provides to the trading desk. The mechamism we're proposing for scoring of sites have been outlined with great level of detal in two separate academic papers and is endorsed by leading researchers and the World Federation of Advertisers. 
 
-## 4. Stakeholders 
+## 4. Stakeholder and Incentives
 
 1) Internet users 
 2) Media buyers
@@ -78,22 +78,38 @@ Every site has a score that is re-computed frequently, and the score is provided
 
 ### 4.2 Media buyers
 
-- media buyers are concerned with reaching the right audience
-- media buyers are concerned with brand safety
-- media buyers are concerned with contextual relevance
-- media buyers are concerned if the user is human 
-- media buyers are concerned if the ad is viewable
-- media buyers are concerned with ad effectiveness
-- media buyers are concered with transparent reporting 
-- media buyers are concerned with spending enough money
+- reaching the right audience
+- brand safety
+- contextual relevance
+- user is human 
+- ad is viewable
+- ad effectiveness
+- transparent reporting 
+- spending enough money
 
 ### 4.3 Media Agents
 
-- media agents are concerned with renewing their accounts 
-- media agents are concerned with spending enough money
-- media agents are concerned with maximizing their commissions
+- maximize media trading volume
+- renewing their accounts 
+- spending enough money
+- maximizing their commissions
+- find "alternative" revenue sources
 
 ### 4.4 Media networks/exchanges 
 
-- 
+- maximize media trading volume
+- maximize fillrates for media owners 
+- maximize commissions from buyers 
+- maximize number of websites in the network 
+- maximize number of visitors in the network 
+- maximize number of pageviews in the network
+- minimize cost of technology
 
+### 4.5 Media owners
+
+- maximize media trading volume
+- maximize fill-rate 
+- maximize pageviews 
+- maximize retention 
+- maximize earning per visit
+- monetize user data
