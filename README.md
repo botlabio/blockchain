@@ -1,15 +1,14 @@
 # blockchain for adtech
 
-An alternative to the opaque openRTB based programmatic advertising marketplace.
+A blockchain based alternative to the opaque openRTB based programmatic advertising marketplace.
 
 ## 1. Background 
 
 The programmatic advertising marketplace is opaque, inefficient, and does not enjoy the trust of the media buyers. Reports show how fraud, ad misplacement and misreporting are widespread issues in the current openRTB based marketplace. Based on very rough modelling, we find that online advertising technology is responsible for a single digit percentile of the global energy footprint. 
 
-Our first contribution in this field will be to clearly outline an alternative model for programmatic advertising, where on a decentralized platfrom transactions are performed without possibility of fraud, misreporting or 3rd-party interference. We present a marketplace where by its very design, all participants embrace 100% transparency in a democratic eco-system.
+Our first contribution in this field is to clearly outline an alternative blockchain based model for programmatic advertising, where on a decentralized platfrom transactions are performed without possibility of fraud, misreporting or 3rd-party interference. We present a marketplace where by its very design, all participants embrace 100% transparency in a democratic eco-system.
 
 Our second contribution is to prove that using a pseudo-blockchain based marketplace model, in addition to being authentic, transactions can be performed with a small fraction of the energy that it woudld take to perform the same transactions under typical conditions im the openRTB marketplace.  
-
 
 ## 2. Solution
 
