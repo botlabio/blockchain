@@ -80,6 +80,7 @@ Every site has a score that is re-computed frequently, and the score is provided
 - reaching the right audience
 - brand safety
 - contextual relevance
+- age verification
 - user is human 
 - ad is viewable
 - ad effectiveness
